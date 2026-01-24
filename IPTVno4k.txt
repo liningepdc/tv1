@@ -89,3 +89,4 @@ CHC 高清影院高清,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227981/i
 茶频道高清,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227974/index.m3u8
 先锋乒羽,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227967/index.m3u8
 快乐垂钓高清,http://sc.rrs.169ol.com:80/PLTV/88888888/224/3221227965/index.m3u8
+
